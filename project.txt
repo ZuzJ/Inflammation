@@ -1,4 +1,4 @@
-some data analysis
+data analysis
 
 ## Authors 
 
