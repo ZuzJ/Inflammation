@@ -1,2 +1,4 @@
 .DS_Stor*
-
+c_output.txt
+results/a_output.txt
+results/b_output.txt
