@@ -1,4 +1,4 @@
-data analysis
+some data
 
 ## Authors 
 
@@ -8,8 +8,10 @@ data analysis
 
 Some reference 
 
-add some changes.
 
 ##results 
 
 In this work I learned about Git
+
+add some changes using bib.
+
